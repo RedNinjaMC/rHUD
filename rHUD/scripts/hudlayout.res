@@ -16,9 +16,9 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c75"	[$WIN32]
+		"xpos"	"c65"	[$WIN32]
 		"ypos"	"c80"	[$WIN32]
-		"wide"	"115"
+		"wide"	"120"
 		"tall"	"50"
 	}
 	
@@ -195,11 +195,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r174"	[$X360]
+		"xpos"					"c100"	[$WIN32]
+		"ypos"					"c28"	[$WIN32]
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -210,8 +207,8 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
-		"ypos"					"r152"
+		"xpos"					"c-170"
+		"ypos"					"c115"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"

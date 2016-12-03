@@ -2497,5 +2497,32 @@ Scheme
                 "antialias" "1"
             }
         }
+        "Mayeka24"
+        {
+            "1"
+            {
+                "name"      "Mayeka Regular Demo"
+                "tall"      "24"
+                "antialias" "1"
+            }
+        }
+        "GoldenRatio14"
+        {
+            "1"
+            {
+                "name"      "Golden Ratio Demo"
+                "tall"      "14"
+                "antialias" "1"
+            }
+        }
+        "Biko10"
+        {
+            "1
+            {
+                "name"      "Biko"
+                "tall"      "10"
+                "antialias" "1"
+            }
+        }
 	}
 }
