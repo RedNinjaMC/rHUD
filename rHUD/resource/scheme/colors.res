@@ -10,6 +10,11 @@ Scheme
         "rhud_black"        "25 25 25 255"
         "rhud_red"          "204 59 59 255"
         "rhud_blue"         "104 162 255 255"
+        "BuildingShader"    "30 30 30 150"
+        "rhud_dmg"          "255 200 0 255"
+        "rhud_dmgshadow"    "56 43 0 255"
+        "rhud_lowhealth"    "230 60 60 150"
+        "rhud_overheal"     "130 230 140 150"
         
 		// --------------- //
         // base hud colors //

@@ -2497,6 +2497,15 @@ Scheme
                 "antialias" "1"
             }
         }
+        "Mayeka32"
+        {
+            "1"
+            {
+                "name"      "Mayeka Regular Demo"
+                "tall"      "32"
+                "antialias" "1"
+            }
+        }
         "Mayeka24"
         {
             "1"
@@ -2504,6 +2513,16 @@ Scheme
                 "name"      "Mayeka Regular Demo"
                 "tall"      "24"
                 "antialias" "1"
+            }
+        }
+        "Mayeka24Outline"
+        {
+            "1"
+            {
+                "name"      "Mayeka Regular Demo"
+                "tall"      "24"
+                "antialias" "1"
+                "outline"   "1"
             }
         }
         "GoldenRatio14"
@@ -2517,11 +2536,21 @@ Scheme
         }
         "Biko10"
         {
-            "1
+            "1"
             {
                 "name"      "Biko"
                 "tall"      "10"
                 "antialias" "1"
+            }
+        }
+        "BuildingLabel"
+        {
+            "1"
+            {
+                "name"      "Kirvy-Bold"
+                "tall"      "10"
+                "antialias" "1"
+                "outline"   "1"
             }
         }
 	}

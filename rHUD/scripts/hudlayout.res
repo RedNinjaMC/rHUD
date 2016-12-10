@@ -44,10 +44,7 @@
 		"tall"	"160"
 		
 		"blue_active_xpos"			"16"
-		"blue_active_xpos_minmode"	"55"
-	
 		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
 	}	
 
 	HudItemEffectMeter
@@ -56,11 +53,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r50"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -72,14 +65,10 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
-		"ypos"			"r69"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
-		"xpos"			"r174"	[$X360]
-		"ypos"			"r90"	[$X360]
-		"wide"			"200"
-		"tall"			"100"
+		"xpos"			"c-90"	[$WIN32]
+		"ypos"			"c80"	[$WIN32]
+		"wide"			"180"
+		"tall"			"50"
 	}
 	
 	HudDemomanCharge
@@ -87,18 +76,13 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
+		"xpos"			"c-90"	[$WIN32]
+		"ypos"			"c80"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"wide_minmode"	"50"
-		"tall"			"8"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"wide"			"180"
+		"tall"			"30"
+		"MeterFG"		"rhud_white"
+		"MeterBG"		"30 30 30 62"
 	}	
 
 	HudBowCharge
@@ -106,18 +90,13 @@
 		"fieldName"		"HudBowCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
+		"xpos"			"c-90"	[$WIN32]
+		"ypos"			"c80"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"wide_minmode"	"50"
-		"tall"			"8"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"wide"			"180"
+		"tall"			"30"
+		"MeterFG"		"rhud_white"
+		"MeterBG"		"30 30 30 62"
 	}
 
 	HudFlameRocketCharge
@@ -126,14 +105,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
-		"wide_minmode"	"50"
 		"tall"			"8"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -161,8 +135,6 @@
 		"ypos" 	"0"
 		"tall"	"480"
 		"RightMargin" "0"
-		"RightMargin_hidef" "32"
-		"RightMargin_lodef" "38"
 		"visible" "1"
 		"enabled" "1"
 		"SmallBoxWide" "72"
@@ -195,10 +167,10 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c100"	[$WIN32]
-		"ypos"					"c28"	[$WIN32]
-		"wide"					"116"
-		"tall"  				"180"
+		"xpos"					"c-45"	[$WIN32]
+		"ypos"					"c75"	[$WIN32]
+		"wide"					"90"
+		"tall"  				"70"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -272,9 +244,7 @@
 		"ypos"		"250"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
 		"priority"	"40"
-		"priority_lodef" "35"
 		
 		"x_offset" "20"
 		"y_offset" "20"
@@ -289,7 +259,6 @@
 		"ypos"		"335"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
 		"priority"	"35"
 
 		if_vr
@@ -306,9 +275,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"xpos"		"32"	[$X360]
-		"ypos"		"16"	[$X360]		
+		"ypos"		"190"	[$WIN32]
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -321,11 +288,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"
-		"xpos_hidef"		"32"
-		"xpos_lodef"		"40"
-		"ypos"		"0"
-		"ypos_hidef"		"16"
-		"ypos_lodef"		"25"
+		"ypos"		"125"
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -415,7 +378,16 @@
 
 	HudDamageIndicator
 	{
-
+		"fieldName" "HudDamageIndicator"
+		"visible" "1"
+		"enabled" "1"
+		"MinimumWidth" "10"
+		"MaximumWidth" "10"		
+		"StartRadius" "80"
+		"EndRadius" "80"
+		"MinimumHeight" "30"
+		"MaximumHeight" "60"
+		"MinimumTime" "1" 
 	}
 
 	HudCommentary
@@ -591,9 +563,9 @@
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-188"
+		"xpos"		"c-250"
 		"ypos"		"250"	[$WIN32]
-		"wide"		"150"
+		"wide"		"100"
 		"tall"		"60"	[$WIN32]
 
 		"BgAlpha"	"0"
@@ -962,9 +934,8 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"10"	[$WIN32]
-		"xpos"			"42"	[$X360]
-		"ypos"			"275"
-		"wide"	 		"320"
+		"ypos"			"10"
+		"wide"	 		"400"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"2"
 	}
@@ -1025,14 +996,10 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r30"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
-		"wide"			"100"
-		"tall"			"50"
+		"xpos"			"c-90"	[$WIN32]
+		"ypos"			"c80"	[$WIN32]
+		"wide"			"180"
+		"tall"			"100"
 	}	
 
 	HudTeamGoal

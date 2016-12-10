@@ -2,13 +2,13 @@
 {
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"28"
-		"delta_item_start_y"	"90"
-		"delta_item_end_y"		"70"
+		"delta_item_x"			"15"
+		"delta_item_start_y"	"50"
+		"delta_item_end_y"		"50"
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
-		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_lifetime"		"1"
+		"delta_item_font"		"Mayeka24"
 	}
 	
 	"AccountBG"
@@ -51,7 +51,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"			"80"
+		"wide"			"85"
 		"tall"			"80"
 		"autoResize"	"1"
 		"pinCorner"		"2"
@@ -72,7 +72,7 @@
 		"xpos"			"1"
 		"ypos"			"1"
 		"zpos"			"2"
-		"wide"			"80"
+		"wide"			"85"
 		"tall"			"80"
 		"autoResize"	"1"
 		"pinCorner"		"2"

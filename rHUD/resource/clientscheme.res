@@ -125,5 +125,15 @@ Scheme
             "font" "resource/fonts/Kirvy_Regular.otf"
             "name" "Kirvy-Regular"
         }
+        "15" // Alpaca Scarlett
+        {
+            "font" "resource/fonts/Alpaca_Scarlett.otf"
+            "name" "Alpaca Scarlett Demo"
+        }
+        "16" // Alpaca Solidify
+        {
+            "font" "resource/fonts/Alpaca_Solidify.otf"
+            "name" "Alpaca Solidify"
+        }
 	}
 }
