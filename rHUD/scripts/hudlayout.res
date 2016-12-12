@@ -179,7 +179,7 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-170"
+		"xpos"					"c-180"
 		"ypos"					"c115"
 		"wide"					"116"
 		"tall"  				"180"
@@ -208,11 +208,8 @@
 		"enabled"	"1"
 		"xpos"		"10"	[$WIN32]
 		"ypos"		"r70"	[$WIN32]
-		"xpos"		"50"	[$X360]
-		"ypos"		"330"	[$X360]
-		"wide"		"500"
-		"tall"		"200"
-		"TextFont"	"Default"	[$X360]
+		"wide"		"250"
+		"tall"		"100"
 	}
 
 	CMainTargetID
@@ -565,7 +562,7 @@
 		"enabled"	"1"
 		"xpos"		"c-250"
 		"ypos"		"250"	[$WIN32]
-		"wide"		"100"
+		"wide"		"125"
 		"tall"		"60"	[$WIN32]
 
 		"BgAlpha"	"0"
@@ -689,8 +686,6 @@
 		"enabled" "1"
 		"xpos" "r42" 	[$WIN32]
 		"ypos" "355"	[$WIN32]
-		"xpos" "r75"	[$X360]
-		"ypos" "375"	[$X360]
 		"wide" "32"
 		"tall" "32"
 	}
@@ -702,8 +697,7 @@
 		"enabled" "1"
 		"xpos" "r145" [$WIN32]
 		"ypos" "0" [$WIN32]
-		"xpos" "r210" [$X360]
-		"ypos" "0" [$X360]
+		"ypos" "0" [$WIN32]
 		"wide" "145"
 		"tall" "400"
 

@@ -2525,6 +2525,15 @@ Scheme
                 "outline"   "1"
             }
         }
+        "Mayeka16"
+        {
+            "1"
+            {
+                "name"      "Mayeka Regular Demo"
+                "tall"      "16"
+                "antialias" "1"
+            }
+        }
         "GoldenRatio14"
         {
             "1"
