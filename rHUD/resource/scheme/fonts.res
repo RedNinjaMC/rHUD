@@ -2552,6 +2552,16 @@ Scheme
                 "antialias" "1"
             }
         }
+        "TargetIDFont"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "10"
+                "antialias" "1"
+                "outline"   "1"
+            }
+        }
         "BuildingLabel"
         {
             "1"

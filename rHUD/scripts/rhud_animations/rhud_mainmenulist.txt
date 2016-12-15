@@ -1,0 +1,16 @@
+event MMenu_PlayList_Expand
+{
+	Animate PlayListContainer Tall 260	 Spline	0.0 0.40
+	FireCommand 0 "soundentry Panel.SlideDown"
+}
+
+event MMenu_PlayList_Collapse
+{
+	Animate PlayListContainer Tall 0 Spline 0 0.4
+	FireCommand 0 "soundentry Panel.SlideUp"
+}
+
+event MMenu_PlayList_Collapse_Immediate
+{
+	Animate PlayListContainer Tall 0 Spline 0 0
+}
