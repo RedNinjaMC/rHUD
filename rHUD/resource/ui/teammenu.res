@@ -321,15 +321,15 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
-		"font"			"MenuSmallFont"
+		"font"			"GoldenRatio14"
 	}
     
 	"BlueCount"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueCount"
-		"xpos"			"c5"
-		"ypos"			"53"
+		"xpos"			"c105"
+		"ypos"			"200"
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
@@ -338,19 +338,19 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%bluecount%"
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"TeamMenuBold"
-		"fgcolor"		"black"
+		"font"			"Mayeka36"
+		"fgcolor"		"rhud_white"
 	}		
 	
 	"RedCount"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedCount"
-		"xpos"			"c193"
-		"ypos"			"53"
+		"xpos"			"c-195"
+		"ypos"			"200"
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
@@ -359,11 +359,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%redcount%"
-		"textAlignment"	"center"
+		"textAlignment"	"east"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"TeamMenuBold"
-		"fgcolor"		"black"
+		"font"			"Mayeka36"
+		"fgcolor"		"rhud_white"
 	}	
 
 	"MenuBG"

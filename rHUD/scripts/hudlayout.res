@@ -206,8 +206,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"10"	[$WIN32]
-		"ypos"		"r70"	[$WIN32]
+		"xpos"		"50"	[$WIN32]
+		"ypos"		"r130"	[$WIN32]
 		"wide"		"250"
 		"tall"		"100"
 	}
