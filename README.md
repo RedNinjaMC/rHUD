@@ -15,7 +15,6 @@ Only supports 16:9 Windows
 2. Notifications
 3. Build UI
 4. Game Objectives
-5. 3D Player Model (in the corner)
-6. Canteens for MVM
-7. MVM Money
-8. Win Panel
+5. Canteens for MVM
+6. MVM Money
+7. Scoreboard
