@@ -1,5 +1,12 @@
 // DON'T. TOUCH.
 
+// Crosshairs
+#base "crosshairs/broesel/crosshairscheme.res"
+#base "crosshairs/fog/crosshairscheme.res"
+#base "crosshairs/knuckles/crosshairscheme.res"
+#base "crosshairs/toonhud/crosshairscheme.res"
+#base "crosshairs/whahay/crosshairscheme.res"
+
 #base "scheme/basesettings.res"
 #base "scheme/colors.res"
 #base "scheme/borders.res"
