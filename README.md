@@ -13,9 +13,8 @@ Only supports 16:9 Windows
 ### To-Do
 1. Game Menus
 2. Notifications
-3. Engineer PDA UI
+3. Build UI
 4. Game Objectives
 5. Canteens for MVM
 6. MVM Money
 7. Scoreboard
-8. Spy Disguise UI

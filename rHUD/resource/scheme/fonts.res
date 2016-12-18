@@ -2534,39 +2534,12 @@ Scheme
                 "antialias" "1"
             }
         }
-        "Mayeka12"
-        {
-            "1"
-            {
-                "name"      "Mayeka Regular Demo"
-                "tall"      "12"
-                "antialias" "1"
-            }
-        }
         "Mayeka10"
         {
             "1"
             {
                 "name"      "Mayeka Regular Demo"
                 "tall"      "10"
-                "antialias" "1"
-            }
-        }
-        "Mayeka12Bold"
-        {
-            "1"
-            {
-                "name"      "Mayeka Demi Bold Demo"
-                "tall"      "12"
-                "antialias" "1"
-            }
-        }
-        "Mayeka16Bold"
-        {
-            "1"
-            {
-                "name"      "Mayeka Demi Bold Demo"
-                "tall"      "16"
                 "antialias" "1"
             }
         }

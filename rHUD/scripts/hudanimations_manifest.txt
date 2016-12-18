@@ -6,7 +6,5 @@ hudanimations_manifest
    	"file"     	"scripts/rhud_animations/rhud_spydisguise.txt"
 	"file"		"scripts/rhud_animations/rhud_medicuber.txt"
     "file"      "scripts/rhud_animations/rhud_mainmenulist.txt"
-    "file"      "scripts/rhud_animations/rhud_hitmarker.txt"
-    "file"      "resource/crosshairs/animations/crosshair_animations.txt"
 	"file"		"scripts/hudanimations_tf.txt"
 }

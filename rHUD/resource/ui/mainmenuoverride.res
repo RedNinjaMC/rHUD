@@ -3039,7 +3039,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_Quit_Title"
-		"font"			"Mayeka16Bold"
+		"font"			"HudFontSmallBold"
 		"textAlignment"	"west"
 		"textinsetx"	"25"
 		"use_proportional_insets" "1"
