@@ -1,0 +1,14 @@
+// Stop any 'hitmarker animation events' before starting another
+event DamagedPlayer 
+{
+    StopEvent HitMarker 0.0
+    RunEvent HitMarker 0.1
+}
+event HitMarker
+{
+    Animate WhahayCrosshair FgColor "230 60 60 255" Linear 0.0 0.0
+    Animate WhahayCrosshair FgColor "230 60 60 190" Linear 0.1 0.0
+    Animate WhahayCrosshair FgColor "230 60 60 125" Linear 0.2 0.0
+    Animate WhahayCrosshair FgColor "230 60 60 65" Linear 0.3 0.0
+    Animate WhahayCrosshair FgColor "rhud_blank" Linear 0.4 0.0
+}

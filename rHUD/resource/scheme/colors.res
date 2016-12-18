@@ -16,6 +16,7 @@ Scheme
         "rhud_dmg"          "255 200 0 255"
         "rhud_dmgshadow"    "56 43 0 255"
         "rhud_lowhealth"    "230 60 60 150"
+        "rhud_blank"        "0 0 0 0"
         "rhud_overheal"     "130 230 140 150"
         "rhud_purple"       "135 0 135 255"
         "rhud_darkpurple"   "80 0 80 255"
