@@ -11,11 +11,12 @@ If the fonts in your hud are broken, go to rhud/resource/fonts and install all o
 Only supports 16:9 Windows
 
 ### To-Do
-1. Game Menus
-2. Notifications
-3. Engineer PDA UI
-4. Game Objectives
-5. Canteens for MVM
-6. MVM Money
-7. Scoreboard
-8. Spy Disguise UI
+1. Notifications
+2. Engineer PDA UI
+3. Gamemode Objectives
+4. Canteens for MVM
+5. MVM Money
+6. Spy Disguise UI
+7. Casual Menu
+8. Inventory Menus
+9. Tournament UI

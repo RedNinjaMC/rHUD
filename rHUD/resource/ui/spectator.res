@@ -84,6 +84,7 @@
 		"fieldName"		"ClassOrTeamLabel"
 		"xpos"			"c-85"
 		"ypos"			"68"
+        "wide"          "400"
 		"tall"			"15"
 		"zpos"			"2"
 		"autoResize"		"0"
@@ -91,7 +92,7 @@
 		"visible"		"1"	[$WIN32]
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
-		"textAlignment"		"center"
+		"textAlignment"		"west"
 		"font"			"Mayeka12"
         "fgcolor_override"  "rhud_white"
 	}
@@ -258,7 +259,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"DefaultSmall"
+			"font"			"TargetIDFont"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"

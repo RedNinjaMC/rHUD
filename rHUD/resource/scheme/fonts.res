@@ -2579,6 +2579,15 @@ Scheme
                 "antialias" "1"
             }
         }
+        "Biko24"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "24"
+                "antialias" "1"
+            }
+        }
         "Biko10"
         {
             "1"
