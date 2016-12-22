@@ -7,6 +7,55 @@
 		"OnlyInGame"	"1"
 		"subimage" "icon_resume"
 	}
+	"CasualButton"
+	{
+		"label"	"Casual"
+		"command" "play_casual"
+		"subimage" ""
+	}
+	"CompetitiveButton"
+	{
+		"label"	"Competitive"
+		"command" "play_competitive"
+		"subimage" ""
+	}
+	"MvMButton"
+	{
+		"label"	"MvM"
+		"command" "play_mvm"
+		"subimage" ""
+	}
+	"ServerBrowserButton"
+	{
+		"label"	"Server Browser"
+		"command" "OpenServerBrowser"
+		"subimage" ""
+	}
+    "StoreButton"
+    {
+        "label" "Waste Money"
+        "command"   "engine open_store"
+        "subimage"  ""
+    }
+    "OptionsButton"
+    {
+        "label" "Options"
+        "command"   "OpenOptionsDialog"
+        "subimage"  ""
+    }
+    "AdvancedOptionsButton"
+    {
+        "label" "Advanced Options"
+        "command"   "opentf2options"
+        "subimage"  ""
+    }
+    "QuitGameButton"
+    {
+        "label" "Quit"
+        "command"   "engine replay_confirmquit"
+        "subimage"  ""
+        "OnlyAtMenu"    "0"
+    }
 	"FindAGameButton"
 	{
 		"label" "#MMenu_FindAGame" 
@@ -36,10 +85,10 @@
 		"label" "#MMenu_Shop"
 		"command" "engine open_store"
 		"subimage" "glyph_store"
-	}	
+	}
 	"CharacterSetupButton"
 	{
-		"label" "#MMenu_CharacterSetup"
+		"label" "Items"
 		"command" "engine open_charinfo"
 		"subimage" "glyph_items"
 	}

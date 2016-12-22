@@ -126,7 +126,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#TF_BackCarat"
+		"labelText"		"&Q Back"
 		"font"			"Mayeka16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
