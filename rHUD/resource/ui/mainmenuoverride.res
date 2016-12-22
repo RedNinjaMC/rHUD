@@ -195,7 +195,7 @@
         "font"		"Mayeka48"
         "fgcolor"		"rhud_red"
         "labelText" "HUD"
-        "xpos"		"135"
+        "xpos"		"140"
         "ypos"		"40"
         "zpos"		"1"
         "wide"		"100"
@@ -769,6 +769,74 @@
 		"fieldname"		"QuitGameButton"
 		"xpos"			"105"
 		"ypos"			"370"
+		"zpos"			"11"
+		"wide"			"215"
+		"tall"			"36"
+		"visible"		"1"
+		"PaintBackgroundType"	"2"
+
+		"navUp"			"ChangeServerButton"
+		"navDown"		"ReplayBrowserButton"
+		"navRight"		"GeneralStoreButton"
+		"navToRelay"	"SubButton"
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"215"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"textinsetx"	"10"
+			"use_proportional_insets" "1"
+			"font"			"Mayeka24"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			
+			"border_default"	""
+			"border_armed"		""
+			"paintbackground"	"0"
+            
+            "defaultBgColor_override"   "0 0 0 0"
+            "armedBgColor_override"     "BuildingShader"
+            "depressedBgColor_override" "BuildingShader"
+			
+			"defaultFgColor_override" "rhud_white"
+			"armedFgColor_override" "rhud_red"
+			"depressedFgColor_override" "rhud_white"
+			
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"235 226 202 255"
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"9999"
+				"ypos"			"9999"
+				"zpos"			"1"
+				"wide"			"14"
+				"tall"			"14"
+				"visible"		"1"
+				"enabled"		"1"
+				"scaleImage"	"1"
+			}
+		}
+    }
+    "DisconnectServerButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"DisconnectServerButton"
+		"xpos"			"105"
+		"ypos"			"400"
 		"zpos"			"11"
 		"wide"			"215"
 		"tall"			"36"
@@ -3709,8 +3777,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"DisconnectButton"
-		"xpos"			"c-300"
-		"ypos"			"437"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"1"
 		"wide"			"125"
 		"tall"			"25"
@@ -3749,7 +3817,7 @@
 			"scaleImage"	"1"
 			"image"			"glyph_quit"
 		}				
-	}			
+	}
 	
 	"BackToReplaysButton"
 	{

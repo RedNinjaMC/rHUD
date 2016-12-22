@@ -54,7 +54,14 @@
         "label" "Quit"
         "command"   "engine replay_confirmquit"
         "subimage"  ""
-        "OnlyAtMenu"    "0"
+        "OnlyAtMenu"    "1"
+    }
+    "DisconnectServerButton"
+    {
+        "label" "Disconnect"
+        "command"   "engine disconnect"
+        "subimage"  ""
+        "OnlyInGame"    "1"
     }
 	"FindAGameButton"
 	{
