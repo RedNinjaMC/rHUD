@@ -8,7 +8,7 @@ If the fonts in your hud are broken, go to rhud/resource/fonts and install all o
 
 ### Noteworthy Things
 
-Only supports 16:9 Windows
+Only supports 16:9 Windows (Anything else may be slightly buggy/offset)
 
 ### To-Do
 1. Notifications
@@ -16,7 +16,6 @@ Only supports 16:9 Windows
 3. Gamemode Objectives
 4. Canteens for MVM
 5. MVM Money
-6. Spy Disguise UI
-7. Casual Menu
-8. Inventory Menus
-9. Tournament UI
+6. Casual Menu
+7. Inventory Menus
+8. Tournament UI

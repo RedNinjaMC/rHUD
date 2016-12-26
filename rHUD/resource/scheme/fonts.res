@@ -2534,6 +2534,16 @@ Scheme
                 "antialias" "1"
             }
         }
+        "Mayeka16Outline"
+        {
+            "1"
+            {
+                "name"      "Mayeka Regular Demo"
+                "tall"      "16"
+                "antialias" "1"
+                "outline"   "1"
+            }
+        }
         "Mayeka12"
         {
             "1"

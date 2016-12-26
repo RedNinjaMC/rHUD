@@ -33,7 +33,7 @@
 	}
     "StoreButton"
     {
-        "label" "Waste Money"
+        "label" "Store"
         "command"   "engine open_store"
         "subimage"  ""
     }

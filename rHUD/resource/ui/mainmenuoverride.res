@@ -157,7 +157,7 @@
 			"brighttext"	"0"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/nope.wav"
+			"sound_released"	"VO/engineer_no01.mp3"
 			
 			"border_default"	""
 			"border_armed"		""
@@ -191,7 +191,7 @@
     "HUD"
     {
         "ControlName"	"CExLabel"
-        "fieldName"		"AmmoInClip"
+        "fieldName"		"HUD"
         "font"		"Mayeka48"
         "fgcolor"		"rhud_red"
         "labelText" "HUD"
@@ -199,6 +199,34 @@
         "ypos"		"40"
         "zpos"		"1"
         "wide"		"100"
+        "tall"		"48"
+    }
+    "version"
+    {
+        "ControlName"	"CExLabel"
+        "fieldName"		"hudVersion"
+        "font"		"Biko24"
+        "fgcolor"		"rhud_white"
+        "labelText" "ver 0.11"
+        "xpos"		"230"
+        "ypos"		"40"
+        "zpos"		"1"
+        "wide"		"180"
+        "tall"		"48"
+        "textAlignment" "west"
+    }
+
+    "date"
+    {
+        "ControlName"	"CExLabel"
+        "fieldName"		"hudUpdateDate"
+        "font"		"Biko24"
+        "fgcolor"		"rhud_white"
+        "labelText" "Updated 12.26.16"
+        "xpos"		"115"
+        "ypos"		"80"
+        "zpos"		"1"
+        "wide"		"180"
         "tall"		"48"
     }
     "ClassMenuShader"
@@ -2332,8 +2360,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"StoreHasNewItemsImage"
-		"xpos"			"230"
-		"ypos"			"20"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"13"
 		"wide"			"32"
 		"tall"			"32"
