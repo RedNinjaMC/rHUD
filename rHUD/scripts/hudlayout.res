@@ -187,8 +187,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c-45"	[$WIN32]
-		"ypos"					"c75"	[$WIN32]
+		"xpos"					"c-41"	[$WIN32]
+		"ypos"					"c75"	[$WIN32] // c-17 for crosshair metal
 		"wide"					"90"
 		"tall"  				"70"
 		"visible" 				"1"
@@ -238,7 +238,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c15"
+		"ypos"		"c33"
 		"tall"	 	"35"
 		"wide"	 	"600"
 		"priority"	"40"
@@ -256,7 +256,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c45"
+		"ypos"		"c55"
 		"wide"	 	"600"
 		"tall"	 	"35"
 		"priority"	"35"
@@ -966,7 +966,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"
-		"ypos"			"c-59"
+		"ypos"			"c-55"
 		"wide"			"450"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"

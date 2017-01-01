@@ -2514,6 +2514,15 @@ Scheme
                 "antialias" "1"
             }
         }
+        "Mayeka8"
+        {
+            "1"
+            {
+                "name"      "Mayeka Regular Demo"
+                "tall"      "8"
+                "antialias" "1"
+            }
+        }
         "Mayeka12Bold"
         {
             "1"
@@ -2550,6 +2559,15 @@ Scheme
                 "antialias" "1"
             }
         }
+        "Biko12"
+        {
+            "1"
+            {
+                "name"      "Biko"
+                "tall"      "12"
+                "antialias" "1"
+            }
+        }
         "Biko10"
         {
             "1"
@@ -2566,7 +2584,7 @@ Scheme
                 "name"      "Biko"
                 "tall"      "10"
                 "antialias" "1"
-                "outline"   "1"
+                "outline"   "0"
             }
         }
         "TargetIDFont2"
@@ -2576,7 +2594,7 @@ Scheme
                 "name"      "Biko"
                 "tall"      "14"
                 "antialias" "1"
-                "outline"   "1"
+                "outline"   "0"
             }
         }
         "BuildingLabel"

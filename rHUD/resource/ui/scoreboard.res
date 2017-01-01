@@ -218,7 +218,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamLabel"
-		"font"			"Mayeka32"
+		"font"			"Biko24"
         "fgcolor"       "rhud_white"
 		"labelText"		"%blueteamname%"
 		"textAlignment"		"west"
@@ -309,7 +309,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamLabel"
-		"font"			"Mayeka32"
+		"font"			"Biko24"
         "fgcolor"       "rhud_white"
 		"labelText"		"%redteamname%"
 		"textAlignment"		"east"

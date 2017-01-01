@@ -28,6 +28,21 @@
 			"angles_z"		"0"
 		}
 	}
+    "PlayerDisguiseShader"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerDisguiseShader"
+		"xpos"			"18"
+		"ypos"			"33"
+		"zpos"			"-2"
+		"wide"			"123"
+		"tall"			"24"
+		"fillcolor"		"30 30 30 175"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+	}
 	"DisguiseStatusBG"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -62,8 +77,8 @@
 		"xpos"			"57"
 		"ypos"			"35"
 		"zpos"			"1"
-		"wide"			"110"
-		"tall"			"24"
+		"wide"			"80"
+		"tall"			"16"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"

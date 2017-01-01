@@ -2,7 +2,7 @@
 {
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"15"
+		"delta_item_x"			"15" // change to 9999 for crosshair metal
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"50"
 		"PositiveColor"			"0 255 0 255"
@@ -10,6 +10,24 @@
 		"delta_lifetime"		"1"
 		"delta_item_font"		"Mayeka24"
 	}
+
+//    "UncommentForCrosshairMetal"
+//    {
+//	    "ControlName"	"CExImageButton"
+//		"fieldName"		"UncommentForCenteredMetal"
+//		"xpos"			"20"
+//		"ypos"			"30"
+//		"zpos"			"-2"
+//		"wide"			"45"
+//		"tall"			"20"
+//		"autoResize"	"0"
+//		"pinCorner"		"0"
+//		"visible"		"1"
+//		"enabled"		"1"
+//      "defaultBgColor_override"   "BuildingShader"
+//        "PaintBackgroundType"   "0"
+//        "textinsety"    "99"
+//    }
 	
 	"AccountBG"
 	{

@@ -245,7 +245,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"Biko12"
 
 		if_match
 		{
@@ -257,7 +257,7 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"Biko12"
 		}
 		
 		"TimePanelValue"
@@ -265,7 +265,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Mayeka16"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"rhud_white"
 			"xpos"			"23"
 			"ypos"			"11"
 			"zpos"			"3"
