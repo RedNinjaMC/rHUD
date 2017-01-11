@@ -41,7 +41,6 @@ Scheme
 		Button.BgColor					"Blank"
 		Button.ArmedTextColor			"White"
 		Button.ArmedBgColor				"Blank"				[$WIN32]
-		Button.ArmedBgColor				"190 115 0 255"		[$X360]
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"Blank"
 		Button.FocusBorderColor			"Black"
