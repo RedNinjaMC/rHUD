@@ -942,7 +942,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"10"	[$WIN32]
-		"ypos"			"r460"
+		"ypos"			"275"
 		"wide"	 		"400"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"2"

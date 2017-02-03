@@ -65,7 +65,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
 		"font"			"Mayeka16"
-		"xpos"			"r260"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 		"ypos"			"16"	[$WIN32]
 		"wide"			"240"	[$WIN32]
 		"tall"			"20"

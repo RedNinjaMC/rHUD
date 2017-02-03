@@ -41,6 +41,104 @@ Scheme
 				}
 			}
 		}
+
+        CasualGameModeList
+        {
+            "inset" "0 0 1 1"
+            "backgroundtype"		"2"
+            Left
+            {
+                "1"
+                {
+                    "color" "rhud_red"
+                    "offset" "0 1"
+                }
+                "2"
+                {
+                    "color" "rhud_red"
+                    "offset" "1 1"
+                }
+                "3"
+                {
+                    "color" "rhud_red"
+                    "offset" "2 1"
+                }
+                "4"
+                {
+                    "color" "rhud_red"
+                    "offset" "3 1"
+                }
+            }
+            Right
+            {
+                "1"
+                {
+                    "color" "rhud_red"
+                    "offset" "1 0"
+                }
+                "2"
+                {
+                    "color" "rhud_red"
+                    "offset" "1 1"
+                }
+                "3"
+                {
+                    "color" "rhud_red"
+                    "offset" "1 1"
+                }
+                "4"
+                {
+                    "color" "rhud_red"
+                    "offset" "1 1"
+                }
+            }
+            Top
+            {
+                "1"
+                {
+                    "color" "rhud_red"
+                    "offset" "0 0"
+                }
+                "2"
+                {
+                    "color" "rhud_red"
+                    "offset" "1 0"
+                }
+                "3"
+                {
+                    "color" "rhud_red"
+                    "offset" "2 0"
+                }
+                "3"
+                {
+                    "color" "rhud_red"
+                    "offset" "3 0"
+                }
+            }
+            Bottom
+            {
+                "1"
+                {
+                    "color" "rhud_red"
+                    "offset" "0 0"
+                }
+                "2"
+                {
+                    "color" "rhud_red"
+                    "offset" "0 1"
+                }
+                "3"
+                {
+                    "color" "rhud_red"
+                    "offset" "0 1"
+                }
+                "3"
+                {
+                    "color" "rhud_red"
+                    "offset" "0 1"
+                }
+            }
+        }
 		
 		TeamMenuBorder
 		{

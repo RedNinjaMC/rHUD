@@ -2412,9 +2412,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
-				"tall"		"11"
-				"weight"	"500"
+				"name"		"Mayeka"
+				"tall"		"14"
 				"antialias" 	"1"
 			}
 		}
@@ -2423,9 +2422,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
-				"tall"		"11"
-				"weight"	"500"
+				"name"		"Mayeka"
+				"tall"		"14"
 				"blur"		"3"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2545,8 +2543,8 @@ Scheme
         {
             "1"
             {
-                "name"      "Golden Ratio Demo"
-                "tall"      "14"
+                "name"      "TheNextFont"
+                "tall"      "20"
                 "antialias" "1"
             }
         }
@@ -2601,10 +2599,37 @@ Scheme
         {
             "1"
             {
-                "name"      "Kirvy-Bold"
+                "name"      "Biko-Bold"
                 "tall"      "10"
                 "antialias" "1"
                 "outline"   "1"
+            }
+        }
+        "Icon36"
+        {
+            "1"
+            {
+                "name"      "Flaticon"
+                "tall"      "36"
+                "antialias" "1"
+            }
+        }
+        "Icon24"
+        {
+            "1"
+            {
+                "name"      "Flaticon"
+                "tall"      "24"
+                "antialias" "1"
+            }
+        }
+        "Icon16"
+        {
+            "1"
+            {
+                "name"      "Flaticon"
+                "tall"      "16"
+                "antialias" "1"
             }
         }
 	}

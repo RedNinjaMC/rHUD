@@ -112,10 +112,10 @@ Scheme
             "font" "resource/fonts/Mayeka_Bold.otf"
             "name" "Mayeka Demi Bold Demo"
         }
-        "11" // Golden Ratio
+        "11" // The Next Font
         {
-            "font" "resource/fonts/GoldenRatio.otf"
-            "name" "Golden Ratio Demo Regular"
+            "font" "resource/fonts/TheNextFont.ttf"
+            "name" "TheNextFont"
         }
         "12" // Kirvy Light
         {
@@ -141,6 +141,11 @@ Scheme
         {
             "font" "resource/fonts/Alpaca_Solidify.otf"
             "name" "Alpaca Solidify"
+        }
+        "17" // Icons Font
+        {
+            "font" "resource/fonts/Flaticon.otf"
+            "name" "Flaticon"
         }
 	}
 }

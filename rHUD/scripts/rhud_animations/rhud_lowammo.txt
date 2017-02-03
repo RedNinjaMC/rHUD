@@ -1,11 +1,11 @@
 //Low Ammo Pulse
 event HudLowAmmoPulse
 {	
-	Animate	LowAmmoBox			BgColor		"rhud_lowhealth"	Accel 0.0 0.0
-    Animate	LowAmmoBox			Alpha		"255"				Accel 0.0 0.3
-	Animate	LowAmmoBox			Alpha		"255"				Accel 0.3 0.6
+	Animate	LowAmmoBox     			BgColor		"rhud_lowhealth"	Accel 0.0 0.0
+    Animate	LowAmmoBox	     		BgColor		"230 60 60 130"		Accel 0.0 0.3
+	Animate	LowAmmoBox	    		BgColor		"230 60 60 150"		Accel 0.3 0.6
 	
-	RunEvent LowAmmoPulseLoop	0.4
+	RunEvent HudLowAmmoPulseLoop	0.4
 }
 
 // call to loop HudLowAmmoPulse

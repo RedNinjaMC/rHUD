@@ -8,6 +8,7 @@ Scheme
         
         "rhud_white"        "244 244 244 255"
         "rhud_black"        "25 25 25 255"
+        "rhud_lightblack"        "35 35 35 255"
         "rhud_red"          "204 59 59 255"
         "rhud_darkred"      "133 38 38 255"
         "rhud_blue"         "104 162 255 255"

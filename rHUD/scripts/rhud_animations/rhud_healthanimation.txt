@@ -2,8 +2,8 @@
 event HudHealthBonusPulse
 {
 	Animate	HealthBonusBox			BgColor		"rhud_overheal"		Accel 0.0 0.0
-    Animate	HealthBonusBox			Alpha		"255"			Accel 0.0 0.3
-	Animate	HealthBonusBox			Alpha		"255"				Accel 0.3 0.6
+    Animate	HealthBonusBox			BgColor		"130 230 140 130"	Accel 0.0 0.3
+	Animate	HealthBonusBox			BgColor		"130 230 140 150"	Accel 0.3 0.6
 	
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -29,8 +29,8 @@ event HudHealthBonusPulseStop
 event HudHealthDyingPulse
 {	
 	Animate	HealthBonusBox			BgColor		"rhud_lowhealth"	Accel 0.0 0.0
-    Animate	HealthBonusBox			Alpha		"255"				Accel 0.0 0.3
-	Animate	HealthBonusBox			Alpha		"255"				Accel 0.3 0.6
+    Animate	HealthBonusBox			BgColor		"230 60 60 130"		Accel 0.0 0.3
+	Animate	HealthBonusBox			BgColor		"230 60 60 150"		Accel 0.3 0.6
 	
 	RunEvent HudHealthDyingPulseLoop	0.4
 }

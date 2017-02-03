@@ -213,14 +213,14 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"BGFrame"
 		"xpos"				"9999"
-		"ypos"				"-5"
+		"ypos"				"9999"
 		"zpos"				"0"
-		"wide"				"365"
-		"tall"				"28"
+		"wide"				"0"
+		"tall"				"0"
 		"visible"			"0"
 
 		"proportionaltoaparent"	"1"
-		"border"			"TFFatLineBorder"
+		"border"			""
 
 		if_match
 		{

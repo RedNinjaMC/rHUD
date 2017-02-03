@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"94"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
+		"xpos"			"200"	[$WIN32]
+		"ypos"			"340"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -29,27 +29,11 @@
 		"teambg_2"		"../hud/misc_ammo_area_red"
 		"teambg_3"		"../hud/misc_ammo_area_blue"			
 	}
-    "KillstreakShader"
-    {
-		"ControlName"	"ImagePanel"
-		"fieldName"		"KillstreakShader"
-		"xpos"			"15"
-		"ypos"			"10"
-		"zpos"			"-2"
-		"wide"			"58"
-		"tall"			"38"
-		"fillcolor"		"30 30 30 100"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-    }
-	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"20"
+		"xpos"					"9999"
 		"ypos"					"30"
 		"zpos"					"2"
 		"wide"					"50"
@@ -98,6 +82,27 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
+        "fgcolor"               "rhud_white"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"north"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Mayeka24"
+	}
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCount"
+		"xpos"					"27"
+		"ypos"					"11"
+		"zpos"					"2"
+		"wide"					"40"
+		"tall"					"20"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+        "fgcolor"               "rhud_black"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
 		"dulltext"				"0"

@@ -32,7 +32,7 @@
 		"ypos"			"138"
 		"zpos"			"-2"
 		"wide"			"633"
-		"tall"			"234"
+		"tall"			"235"
 		"fillcolor"		"30 30 30 80"
 		"autoResize"	"0"
 		"pinCorner"		"0"
